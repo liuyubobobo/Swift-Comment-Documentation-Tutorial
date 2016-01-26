@@ -6,7 +6,7 @@ import Foundation
 /** 
     In this playground, I will show you how to use swift built-in comment syntac to create documentation. It's quite useful when your program is large or you need to share your code to co-works.
 
-    Bsically speaking, you can use the ``/** ... */`` for mutiline comments or ``\\\`` for single-line comments. Inside comment blcoks, basic **Markdown** syntax applied:
+    Basically speaking, you can use the ``/** ... */`` for mutiline comments or ``\\\`` for single-line comments. Inside comment blcoks, basic **Markdown** syntax applied:
 
     - Paragraphs are seperated by blank lines
     - Unordered lists can use a variety of bullet characters: -, +, *, •. This sample is in an unordered list.
